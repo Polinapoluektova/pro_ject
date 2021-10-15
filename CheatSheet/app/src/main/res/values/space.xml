@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="space">
+        <item>Происхождение Вселенной</item>
+        <item>Планеты</item>
+        <item>Звезды</item>
+        <item>Галактика</item>
+        <item>Черные дыры</item>
+        <item>Темная материя</item>
+        <item>Другие объекты космоса</item>
+        <item>Исследования космоса</item>
+        <item>Hubble</item>
+        <item>Теория мультивселенной</item>
+    </string-array>
+</resources>
